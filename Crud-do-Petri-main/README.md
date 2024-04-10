@@ -1,6 +1,9 @@
- <h3> Bem vindo ao nosso Crud feito com Spring Boot com o tema sendo baseado em uma empresa de jogos indie</h3>
+ <h3> Bem vindo ao nosso Crud feito com Spring Boot com o tema sendo baseado em uma empresa de jogos indie
+ </h3>
+ 
 
-<h3> Alunos: </h3>
+<h3> Alunos: 
+</h3>
 
 Igor Yudi Tsuruda <br /> 
 Leonardo Dias Santana Ribeiro <br /> 
